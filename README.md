@@ -11,6 +11,10 @@ These are a few of my favorite things:
 - Not editing directly on GitHub
 <<<<<<< HEAD
 - Coffee
+<<<<<<< HEAD
 =======
 - Coffee
+>>>>>>> experiment
+=======
+- Tea
 >>>>>>> experiment
